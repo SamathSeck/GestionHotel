@@ -1,0 +1,135 @@
+pacman -S mingw-w64-x86_64-gtk3 mingw-w64-x86_64-python3 mingw-w64-x86_64-python3-gobject
+gtk3-demo
+python3 hello.py
+python3 hello.py
+python3 hello.py
+gtk3-demo
+LS
+ls
+cls
+ls
+hello.py
+python hello.py
+ls
+LS
+gedit aa
+ls
+python hello.py
+python Accueil.py
+python Accueil.py
+python Accueil.py
+python Entet.py
+python Entet.py
+python Entet.py
+python Entet.py
+python Entet.py
+python Entet.py
+python Entet.py
+python Entet.py
+python Entet.py
+python Entet.py
+python Entet.py
+python Entet.py
+python hello.py
+python Accuiel.py
+python Entet.py
+python hello.py
+python Entet.py
+python Entet.py
+python hello.py
+python hello.py
+python hello.py
+python page3.py
+python Main.py
+python Main.py
+python Main.py
+python hello.py
+python hello.py
+python hello.py
+champ_client.py
+python champ_client.py
+python champ_client.py
+python champ_client.py
+python champ_client.py
+python champ_client.py
+python hello.py
+python hello.py
+python hello.py
+python hello.py
+python hello.py
+python Accuel.py
+python Accueil.py
+python Accueil.py
+python hello.py
+python chambre.py
+python chambre.py
+python chambre.py
+python hello.py
+python hello.py
+python hello.py
+python champ_annexe.py
+python champ_annexe.py
+python champ_annexe.py
+python champ_annexe.py
+python Accueil.py
+python connexion.py
+python connexion.py
+python connexion.py
+python connexion.py
+python compte.py
+python hello.py
+python hello.py
+python hello.py
+python hello.py
+python hello.py
+python hello.py
+python Accueil.py
+python hello.py
+python Accueil.py
+python Accueil.py
+python Main.py
+python Main.py
+python hello.py
+python accueil.py
+python accueil.py
+python accueil.py
+python accueil.py
+python accueil.py
+python Main.py
+python hello.py
+python accueil.py
+python accueil.py
+python accueil.py
+python accueil.py
+python accueil.py
+python accueil.py
+python Main.py
+python accueil.py
+python accueil.py
+python accueil.py
+python Main.py
+python Main.py
+python accueil.py
+python accueil.py
+python accueil.py
+python accueil.py
+python accueil.py
+python accueil.py
+python accueil.py
+python accueil.py
+python accueil.py
+python accueil.py
+python accueil.py
+python Main.py
+python Main.py
+python Main.py
+python Main.py
+python Main.py
+python Main.py
+python Main.py
+python chambre.py
+python chambre.py
+python accueil.py
+python accueil.py
+python accueil.py
+python accueil.py
